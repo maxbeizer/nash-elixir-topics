@@ -4,3 +4,4 @@ Please submit your ideas for topics you would like to discuss as a PR to the REA
 ---
 
 - [ ] Deep dive into pattern matching
+- [ ] Head/Tail recursion, explained
