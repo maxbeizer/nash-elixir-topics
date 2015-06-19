@@ -14,3 +14,10 @@ Please submit your ideas for topics you would like to discuss as a PR to the REA
 - [ ] Behaviors
  -  [ ] Using built-in behaviors
  -  [ ] Creating custom behaviors
+- [ ] Pipe Operator
+- [ ] Debugging tools
+- [ ] Mix
+- [ ] Protocols
+  - [ ] Enumerable, Collectable, Access
+- [ ] Modules
+  - [ ] Map, Dict, Stream, HashDict
