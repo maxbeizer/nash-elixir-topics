@@ -41,3 +41,5 @@ Please submit your ideas for topics you would like to discuss as a PR to the REA
 	- Agents
 	- etc...
 - [ ] Building fault tolerant systems
+- [ ] Testing
+  - Testing Frameworks and Tools
